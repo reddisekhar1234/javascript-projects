@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Alert Function</title>
+<..! <script>
+function msg(){
+alert("hello cognizant");
+}
+</script>
+</head>..>
+<body>
+<form>
+<input type="button" value="click" onclick="window.alert(5+2)";>
+</form>
+</body> 
+</html>
